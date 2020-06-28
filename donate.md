@@ -1,10 +1,9 @@
-Over the past 10+ years, I've grown [Python Tutor](http://pythontutor.com/) into one of the most widely-used free resources for learning programming, with over ten million total users. This website costs significant amounts of money to run. Throughout the
-years, I've received many offers for custom advertising and sponsor deals. But I've stubbornly held onto the conviction that **educational resources like mine should be 100% free and not beholden to advertisers, sponsors, or investors.**
+The [Python Tutor](http://pythontutor.com/) website costs significant amounts of money to run. Throughout the years, I've received many offers for custom advertising and sponsor deals. But I've stubbornly held onto the conviction that **educational resources like mine should be 100% free and not beholden to advertisers, sponsors, or investors.**
 
 In the end, the only funding model I'm comfortable with is one where generous people make donations to keep things free for everyone else. Here are some ways you can help:
 
 - Use Patreon to make a <a class="donatelink" href="https://www.patreon.com/pgbovine" target="_blank">recurring monthly pledge</a>
-- Use PayPal or your credit/debit card to give
+- Use PayPal or your **credit/debit card** to give
   - <a class="donatelink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EUHDM52ESN7BE&lc=US&item_name=Support%20Python%20Tutor&amount=3%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank">$3</a> |
   <a class="donatelink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EUHDM52ESN7BE&lc=US&item_name=Support%20Python%20Tutor&amount=5%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank">$5</a> |
   <a class="donatelink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EUHDM52ESN7BE&lc=US&item_name=Support%20Python%20Tutor&amount=10%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank">$10</a> |
