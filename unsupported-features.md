@@ -49,7 +49,7 @@ Due to this ultra-focused design, the following features are not supported and w
 ### Python unsupported features
 
 - for strings and numbers, you can't rely on the behaviors of `id()` or `is` matching CPython on your computer; when teaching beginners, you shouldn't rely on these behaviors since they are implementation-specific optimizations.
-- some infinite loops: the server times out without showing partial results or good error messages
+- some infinite loops: the server times-out without showing partial results or good error messages
   - to cut down execution times, [set Python breakpoints](https://youtu.be/80ztTXP90Vs?t=42) using `#break` comments
 - random number generators and user input (via input() or raw_input()) sometimes don't work well together
 - raw_input/input might not work in iframe embeds
@@ -118,7 +118,6 @@ Note that the Ruby version is **not maintained anymore** so I am unlikely to fix
 - If you're behind some kinds of firewalls or proxy servers, the visualizer or live chat may not work
 - URL shortening (you should use your own third-party URL shortener service)
 - https iframe embedding with non-Python languages (iframe embed should work for Python if you use `https://` for URL)
-- Standalone application or offline mode (you can download the code and install it yourself but I don't have time to provide tech support for local installations)
 
 Look at these issues for more unsupported features: https://github.com/pythontutor-dev/pythontutor/issues
 
