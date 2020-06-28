@@ -7,7 +7,7 @@ This free website is maintained by one volunteer in my spare time, so I'm unable
 - I can't provide technical support for users who want to install Python Tutor on their own computers/servers.
 - I can't provide support for Python Tutor code embedded in other websites. Contact those site owners for help.
 - I don't have time to review any outside code contributions or GitHub pull requests. Feel free to fork the code.
-- I appreciate [donations](http://pgbovine.net/support.htm) to keep the servers running, but donors do not get any preferential treatment for requests.
+- I appreciate [donations](donate.md) to keep the servers running, but donors do not get any preferential treatment for requests.
 
 
 ## Unsupported features
