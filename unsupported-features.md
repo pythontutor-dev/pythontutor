@@ -101,7 +101,7 @@ The visualizer currently supports JavaScript ES6 and TypeScript 1.4.1 (running i
 
 ### Java unsupported features
 
-The Java 8 visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz, not by myself. It supports
+The Java 8 visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz. It supports
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdIn.html">StdIn</a>,
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdOut.html">StdOut</a>,
 most other <a href="http://introcs.cs.princeton.edu/java/stdlib">stdlib libraries</a>,
