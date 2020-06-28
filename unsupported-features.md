@@ -97,9 +97,19 @@ Look at these GitHub issues for more C/C++ unsupported features: https://github.
 
 ### Java unsupported features
 
+The Java visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz. It supports
+<a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdIn.html">StdIn</a>,
+<a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdOut.html">StdOut</a>,
+most other <a href="http://introcs.cs.princeton.edu/java/stdlib">stdlib libraries</a>,
+<a href="http://introcs.cs.princeton.edu/java/43stack/Stack.java.html"><tt>Stack</tt></a>,
+<a href="http://introcs.cs.princeton.edu/java/43stack/Queue.java.html"><tt>Queue</tt></a>,
+and <a href="http://introcs.cs.princeton.edu/java/44st/ST.java.html"><tt>ST</tt></a>.
+To access built-in Stack and Queue classes, write: <tt>import java.util.Stack;</tt> This won't work: <tt>import java.util.*;</tt>
+
 Note that the Java version is **not maintained anymore** so I am unlikely to fix reported bugs here.
 
 - some data structures like ArrayList aren't visualized properly
+
 
 ### Ruby unsupported features
 
