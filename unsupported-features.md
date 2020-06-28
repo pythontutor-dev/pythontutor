@@ -58,6 +58,8 @@ Due to this ultra-focused design, the following features are not supported and w
 
 ### C and C++ unsupported features
 
+The visualizer compiles code with gcc 4.8 and runs it using a Valgrind Memcheck-based plugin. It currently supports C11/C++11.
+
 - [doesn't visualize when function parameters get mutated](https://github.com/pythontutor-dev/pythontutor/issues/23) (remedy: make a copy to a new local variable to visualize)
 - [doesn't visualize function return values](https://github.com/pythontutor-dev/pythontutor/issues/43) (remedy: add a temporary return variable to visualize)
 - [unions](https://github.com/pythontutor-dev/pythontutor/issues/16)
@@ -85,6 +87,8 @@ Look at these GitHub issues for more C/C++ unsupported features: https://github.
 
 ### JavaScript unsupported features
 
+The visualizer currently supports JavaScript ES6 and TypeScript 1.4.1 (running in Node.js v6.0.0).
+
 - asynchronous and event-driven code
   - including setTimeout, setInterval, etc.
   - promises, async/await
@@ -97,7 +101,7 @@ Look at these GitHub issues for more C/C++ unsupported features: https://github.
 
 ### Java unsupported features
 
-The Java visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz. It supports
+The Java 8 visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz. It supports
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdIn.html">StdIn</a>,
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdOut.html">StdOut</a>,
 most other <a href="http://introcs.cs.princeton.edu/java/stdlib">stdlib libraries</a>,
@@ -106,14 +110,14 @@ most other <a href="http://introcs.cs.princeton.edu/java/stdlib">stdlib librarie
 and <a href="http://introcs.cs.princeton.edu/java/44st/ST.java.html"><tt>ST</tt></a>.
 To access built-in Stack and Queue classes, write: <tt>import java.util.Stack;</tt> This won't work: <tt>import java.util.*;</tt>
 
-Note that the Java version is **not maintained anymore** so I am unlikely to fix reported bugs here.
+Note that the Java visualizer is **not maintained anymore** so I am unlikely to fix reported bugs here. Known limitations:
 
 - some data structures like ArrayList aren't visualized properly
 
 
 ### Ruby unsupported features
 
-Note that the Ruby version is **not maintained anymore** so I am unlikely to fix reported bugs here.
+Currently support Ruby 2 (MRI 2.2.2); note that the Ruby visualizer is **not maintained anymore** so I am unlikely to fix reported bugs here.
 
 - see GitHub issues: https://github.com/pythontutor-dev/pythontutor/labels/ruby
 
