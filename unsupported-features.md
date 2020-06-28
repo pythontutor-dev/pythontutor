@@ -101,7 +101,7 @@ The visualizer currently supports JavaScript ES6 and TypeScript 1.4.1 (running i
 
 ### Java unsupported features
 
-The Java 8 visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz. It supports
+The Java 8 visualizer was made by [David Pritchard](https://github.com/daveagp) and Will Gwozdz, not by myself. It supports
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdIn.html">StdIn</a>,
 <a href="http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdOut.html">StdOut</a>,
 most other <a href="http://introcs.cs.princeton.edu/java/stdlib">stdlib libraries</a>,
@@ -117,7 +117,7 @@ Note that the Java visualizer is **not maintained anymore** so I am unlikely to 
 
 ### Ruby unsupported features
 
-Currently support Ruby 2 (MRI 2.2.2); note that the Ruby visualizer is **not maintained anymore** so I am unlikely to fix reported bugs here.
+The Ruby visualizer currently supports Ruby 2 (MRI 2.2.2); note that it is **not maintained anymore** so I am unlikely to fix reported bugs here.
 
 - see GitHub issues: https://github.com/pythontutor-dev/pythontutor/labels/ruby
 
