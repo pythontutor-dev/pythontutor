@@ -5,7 +5,6 @@ This free website is maintained by one volunteer in my spare time, so I'm unable
 - If you don't get a reply from me, assume your issue will NOT be addressed. Please do not add duplicate issues.
 - I can't personally provide any programming help. Use the "Get live help!" button to request help from volunteers.
 - I can't provide support for Python Tutor code embedded in other websites. Contact those site owners for help.
-- I appreciate [donations](donate.md) to keep the servers running, but donors do not get any preferential treatment for requests.
 
 
 ## Unsupported features
