@@ -3,7 +3,7 @@
 This free website is maintained by one volunteer in my spare time, so I'm unable to respond to most requests. Your issue is probably listed here. If you're sure it's not here, file a GitHub issue and use the "Generate permanent link" button to include a URL of your code. **I only consider credible and reproducible bug reports that show the visualizer doing something clearly incorrect.** I have no time for feature requests.
 
 - If you don't get a reply from me, assume your issue will NOT be addressed. Please do not add duplicate issues.
-- I can't personally provide any programming help. Use the "Get live help!" button to request help from volunteers.
+- "Get live help!" is down indefinitely; do not ask about when it may be back up. I will not respond to any inquiries.
 - I can't provide support for Python Tutor code embedded in other websites. Contact those site owners for help.
 
 
