@@ -1,10 +1,10 @@
 ## Python Tutor's server and live chat service may go down at any time and lose your code! There is NO on-call technical support available.
 
-This is a free service that is provided as-is with no quality or uptime guarantees. Your issue is probably listed here. If you're sure it's not here, file a GitHub issue and use the "Generate permanent link" button to include a URL of your code. **I only consider credible and reproducible bug reports that show the visualizer doing something clearly incorrect.**
+This is a free service that is provided as-is with no quality or uptime guarantees. Your issue is probably listed here. If you're sure it's not here, file a GitHub issue and use the "Generate permanent link" button to include a URL of your code.
 
-- If you don't get a reply from me, assume your issue will NOT be addressed. Please do not add duplicate issues.
+- If you don't get a reply, assume your issue will NOT be addressed. Please do not add duplicate issues.
 - "Get live help!" is down periodically due to heavy server loads; do not ask about when it may be back up.
-- I can't provide support for Python Tutor code embedded in other websites. Contact those site owners for help.
+- We can't provide support for Python Tutor code embedded in other websites. Contact those site owners for help.
 
 
 ## Unsupported features
